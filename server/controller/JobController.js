@@ -1,4 +1,5 @@
 const Job = require('../model/Job');
+const DB = require('../database/db.json');
 
 //-----Get all jobs------
 exports.getAllJobs = async (req, res) => {

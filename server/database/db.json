@@ -1,0 +1,205 @@
+{
+    "jobListings": [
+      {
+        "id": "1",
+        "title": "AI Fashion Stylist",
+        "location": "Surat, Gujarat",
+        "description": "Utilize AI algorithms to create personalized fashion recommendations.",
+        "duration": "6 months",
+        "openings": 2,
+        "experience": "2 years",
+        "skills": ["AI", "Fashion Design"]
+      },
+      {
+        "id": "2",
+        "title": "AR Developer",
+        "location": "Remote",
+        "description": "Develop augmented reality applications for immersive shopping experience.",
+        "duration": "Full-time",
+        "openings": 3,
+        "experience": "1 year",
+        "skills": ["AR", "JavaScript", "React"]
+      },
+      {
+        "id": "3",
+        "title": "Data Analyst",
+        "location": "Surat, Gujarat",
+        "description": "Analyze user data to improve fashion recommendations and user experience.",
+        "duration": "Full-time",
+        "openings": 7,
+        "experience": "1 year",
+        "skills": ["Python", "R", "SQL"]
+      },
+      {
+        "id": "4",
+        "title": "Fashion Marketing Specialist",
+        "location": "Remote",
+        "description": "Manage marketing campaigns and strategies to promote our AI fashion solutions.",
+        "duration": "6 months",
+        "openings": 4,
+        "experience": "1 year",
+        "skills": ["SEO", "SEM", "email marketing", "content creation"]
+      },
+      {
+        "id": "5",
+        "title": "UI/UX Designer",
+        "location": "Surat, Gujarat",
+        "description": "Design user-friendly interfaces and experiences for our applications.",
+        "duration": "9 months",
+        "openings": 5,
+        "experience": "1 year",
+        "skills": ["Figma", "Adobe XD", "ProtoPie"]
+      },
+      {
+        "id": "6",
+        "title": "Software Engineer",
+        "location": "Surat, Gujarat",
+        "description": "Develop and maintain software solutions for our fashion technology platform.",
+        "duration": "Full-time",
+        "openings": 2,
+        "experience": "1 year",
+        "skills": ["DSA", "Java", "HTML", "CSS", "JavaScript", "CI/CD"]
+      },
+      {
+        "id": "7",
+        "title": "Backend Developer",
+        "location": "Mumbai, Maharashtra",
+        "description": "Design and maintain robust backend systems for fashion applications.",
+        "duration": "Full-time",
+        "openings": 3,
+        "experience": "2 years",
+        "skills": ["Node.js", "Express", "MongoDB", "API"]
+      },
+      {
+        "id": "8",
+        "title": "Content Writer",
+        "location": "Remote",
+        "description": "Create engaging content for fashion and AI-related blogs and marketing materials.",
+        "duration": "3 months",
+        "openings": 2,
+        "experience": "6 months",
+        "skills": ["Content Writing", "SEO", "Blogging"]
+      },
+      {
+        "id": "9",
+        "title": "Machine Learning Engineer",
+        "location": "Hyderabad, Telangana",
+        "description": "Develop machine learning models for personalized recommendations.",
+        "duration": "Full-time",
+        "openings": 2,
+        "experience": "2 years",
+        "skills": ["Machine Learning", "Python", "TensorFlow"]
+      },
+      {
+        "id": "10",
+        "title": "Digital Marketing Specialist",
+        "location": "Remote",
+        "description": "Plan and execute digital marketing strategies to increase brand visibility.",
+        "duration": "6 months",
+        "openings": 3,
+        "experience": "1 year",
+        "skills": ["Social Media Marketing", "Google Ads", "Analytics"]
+      },
+      {
+        "id": "11",
+        "title": "Frontend Developer",
+        "location": "Pune, Maharashtra",
+        "description": "Build interactive user interfaces for fashion technology applications.",
+        "duration": "Full-time",
+        "openings": 4,
+        "experience": "1 year",
+        "skills": ["React", "JavaScript", "CSS"]
+      },
+      {
+        "id": "12",
+        "title": "Quality Assurance Engineer",
+        "location": "Surat, Gujarat",
+        "description": "Ensure the quality of our applications through rigorous testing.",
+        "duration": "6 months",
+        "openings": 2,
+        "experience": "1 year",
+        "skills": ["Testing", "Automation", "Selenium"]
+      },
+      {
+        "id": "13",
+        "title": "Mobile App Developer",
+        "location": "Delhi, India",
+        "description": "Develop mobile applications for fashion and AI platforms.",
+        "duration": "Full-time",
+        "openings": 5,
+        "experience": "2 years",
+        "skills": ["Flutter", "React Native", "Kotlin"]
+      },
+      {
+        "id": "14",
+        "title": "Cloud Engineer",
+        "location": "Remote",
+        "description": "Manage cloud infrastructure for scalable fashion tech applications.",
+        "duration": "6 months",
+        "openings": 2,
+        "experience": "1 year",
+        "skills": ["AWS", "Azure", "GCP"]
+      },
+      {
+        "id": "15",
+        "title": "Graphic Designer",
+        "location": "Remote",
+        "description": "Create visually appealing graphics for marketing and branding.",
+        "duration": "3 months",
+        "openings": 4,
+        "experience": "6 months",
+        "skills": ["Photoshop", "Illustrator", "InDesign"]
+      },
+      {
+        "id": "16",
+        "title": "Business Analyst",
+        "location": "Bangalore, Karnataka",
+        "description": "Analyze business needs and improve operational efficiency.",
+        "duration": "Full-time",
+        "openings": 3,
+        "experience": "2 years",
+        "skills": ["Business Analysis", "Data Analysis", "Excel"]
+      },
+      {
+        "id": "17",
+        "title": "HR Manager",
+        "location": "Mumbai, Maharashtra",
+        "description": "Oversee hiring and employee relations for fashion tech team.",
+        "duration": "Full-time",
+        "openings": 1,
+        "experience": "3 years",
+        "skills": ["HR Management", "Recruitment", "Communication"]
+      },
+      {
+        "id": "18",
+        "title": "Cybersecurity Specialist",
+        "location": "Hyderabad, Telangana",
+        "description": "Implement security measures for our platform to ensure data safety.",
+        "duration": "Full-time",
+        "openings": 2,
+        "experience": "2 years",
+        "skills": ["Cybersecurity", "Network Security", "Encryption"]
+      },
+      {
+        "id": "19",
+        "title": "DevOps Engineer",
+        "location": "Remote",
+        "description": "Implement CI/CD pipelines and automate infrastructure management.",
+        "duration": "Full-time",
+        "openings": 2,
+        "experience": "2 years",
+        "skills": ["CI/CD", "Docker", "Kubernetes", "Jenkins"]
+      },
+      {
+        "id": "20",
+        "title": "Operations Manager",
+        "location": "Surat, Gujarat",
+        "description": "Oversee daily operations and ensure smooth workflow across teams.",
+        "duration": "Full-time",
+        "openings": 1,
+        "experience": "3 years",
+        "skills": ["Operations Management", "Team Leadership", "Communication"]
+      }
+    ]
+  }
+  
